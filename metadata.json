@@ -1,0 +1,6 @@
+{
+  "name": "Dreamora",
+  "description": "A modern healthcare and sleep wellness app focused on CBT-I (Cognitive Behavioral Therapy for Insomnia), sleep tracking, sleep diary monitoring, daytime activities, audio relaxation, and personalized AI support.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
